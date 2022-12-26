@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mohd+Sadiq;Machine+Learning+%7C+Artificial+Intelligence+%7C+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mohd+Sadiq;Machine+Learning+%7C+AI+%7C+Data+Science)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
