@@ -1,5 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mohd+Sadiq;Machine+Learning+%7C+Artificial+Intelligence+%7C+Data+Science)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
-I'm a Masters student in Machine Learning and Machine Intelligence at the University of Cambridge.<br>I look forward to collaborate with people on various data science and machine learning projects.<br>Currently I will be publishing a few personal projects that will need polishing and updating in terms of documentation and scalable code.<br>I'm looking to improve upon my project building skills and writing code at scale.<br>To ask any queries feel free to drop me a mail.
+I'm a Masters student in Machine Learning and Machine Intelligence at the University of Cambridge. I look forward to collaborate with people on various data science and machine learning projects. Currently I will be publishing a few personal projects that will need polishing and updating in terms of documentation and scalable code. I'm looking to improve upon my project building skills and writing code at scale. To ask any queries feel free to drop me a mail.
 
 
 ## 🌐 Socials:
